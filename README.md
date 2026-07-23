@@ -1,9 +1,3 @@
-# <div align="center">
-
-<img width="1672" height="900" alt="image" src="https://github.com/user-attachments/assets/a4eb1cdd-f5aa-4782-9ec2-a5f129191614" />
-
-
-
 # 🎓 Cadastro de Alunos
 
 ### Projeto desenvolvido em **Java** para cadastro de alunos, cálculo de média e classificação acadêmica.
@@ -12,7 +6,12 @@
 
 ---
 
-# #📖 Sobre o projeto
+# <div align="center">
+
+<img width="1672" height="900" alt="image" src="https://github.com/user-attachments/assets/a4eb1cdd-f5aa-4782-9ec2-a5f129191614" />
+
+
+## 📖 Sobre o projeto
 
 Este projeto foi desenvolvido para praticar os conceitos fundamentais da linguagem **Java**, utilizando entrada de dados via teclado, métodos, estruturas condicionais e cálculos matemáticos.
 
