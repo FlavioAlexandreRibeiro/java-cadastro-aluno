@@ -1,6 +1,7 @@
 # <div align="center">
 
-<img width="1672" height="800" alt="image" src="https://github.com/user-attachments/assets/5682b084-4058-4068-8c8c-cec7f78b3d85" />
+<img width="1672" height="900" alt="image" src="https://github.com/user-attachments/assets/a4eb1cdd-f5aa-4782-9ec2-a5f129191614" />
+
 
 
 # 🎓 Cadastro de Alunos
